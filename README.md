@@ -50,7 +50,7 @@ Taxi_Samples_df = pd.read_csv('https://bit.ly/taxi-samples')
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 1. **Load & Inspect Data**  
    - Check shape, schema, preview rows (`.shape`, `.info()`, `.head()`).
@@ -67,7 +67,7 @@ Taxi_Samples_df = pd.read_csv('https://bit.ly/taxi-samples')
 
 ---
 
-## ✅ Results (from the provided script)
+## Results (from the provided script)
 
 - **Normality**: Yellow cab tips are approximately normal (**p = 0.162**); green cab tips are **not normal (p < 0.05)**.  
 - **Equal variances**: Bartlett’s test indicates **no significant difference in variances (p = 0.38)**.  
@@ -132,7 +132,7 @@ python gb881_assignment_4_schlichtmann_t.py
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes.
 
