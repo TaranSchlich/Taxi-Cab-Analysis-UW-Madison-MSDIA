@@ -4,6 +4,7 @@ https://colab.research.google.com/github/TaranSchlich/Taxi-Cab-Analysis-UW-Madis
 
 # NYC Taxi Tip Analysis: Yellow vs. Green Cabs
 **By: Taran Schlichtmann**
+
 **Date: 09/30/2025**
 
 A data analysis project using **Python**, **Pandas**, **Seaborn**, and **SciPy** to determine whether the **average tip** differs between **yellow** and **green** New York City taxis via a **two-sample t-test**.
